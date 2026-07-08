@@ -20,12 +20,12 @@ Python
 
 # 📚 Python Concepts Practiced
 Functions
-Conditional Statements (if, elif, else)
-Loops (while)
-Dictionaries
-String Slicing
-User Input Handling
-Input Validation
-Variables and Operators
+-Conditional Statements (if, elif, else)
+-Loops (while)
+-Dictionaries
+-String Slicing
+-User Input Handling
+-Input Validation
+-Variables and Operators
 
 This project is part of my Python learning journey, where I apply fundamental programming concepts by building practical, hands-on projects.
