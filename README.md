@@ -19,7 +19,7 @@ The game starts with three piles containing different numbers of objects. Two pl
 Python 
 
 # 📚 Python Concepts Practiced
-Functions
+- Functions
 - Conditional Statements (if, elif, else)
 - Loops (while)
 - Dictionaries
